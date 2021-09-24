@@ -399,6 +399,13 @@
 		D9B5554F26FDBD3C00AE5430 /* FrameworkClasses */ = {
 			isa = PBXGroup;
 			children = (
+				D9EEF04726FCA192000C0099 /* Encryption */,
+				D9EEF03C26FCA0D7000C0099 /* Extensions */,
+				D9EEF01126FC9FFF000C0099 /* ImageManager */,
+				D9EEEFF826FC9FFF000C0099 /* Models */,
+				D9EEEE5726FC9DE7000C0099 /* Resources */,
+				D9EEEE5626FC9DBE000C0099 /* Classes&Cells */,
+				D9EEEE5526FC9D41000C0099 /* OtherLibraries */,
 			);
 			path = FrameworkClasses;
 			sourceTree = "<group>";
@@ -426,13 +433,6 @@
 		D9EEEE3D26FC9C86000C0099 /* TIChatBot */ = {
 			isa = PBXGroup;
 			children = (
-				D9EEF04726FCA192000C0099 /* Encryption */,
-				D9EEF03C26FCA0D7000C0099 /* Extensions */,
-				D9EEF01126FC9FFF000C0099 /* ImageManager */,
-				D9EEEFF826FC9FFF000C0099 /* Models */,
-				D9EEEE5726FC9DE7000C0099 /* Resources */,
-				D9EEEE5626FC9DBE000C0099 /* Classes&Cells */,
-				D9EEEE5526FC9D41000C0099 /* OtherLibraries */,
 				D9B5554F26FDBD3C00AE5430 /* FrameworkClasses */,
 				D9EEEE3E26FC9C86000C0099 /* TIChatBot.h */,
 				D9EEEE3F26FC9C86000C0099 /* Info.plist */,
