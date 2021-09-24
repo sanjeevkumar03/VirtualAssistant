@@ -32,7 +32,7 @@ Pod::Spec.new do |spec|
     spec.dependency 'Alamofire'
     spec.dependency 'AlamofireImage'
     # 8
-    spec.source_files  = "TIChatBot/FrameworkClasses/**/*.{h,m,swift}"
+    spec.source_files  = "TIChatBot/**/*.{h,m,swift}"
     #spec.source_files = '**/Classes/**/*.{h,m,swift}'
     # 9
     #spec.resources = "VirtualAssistant/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
