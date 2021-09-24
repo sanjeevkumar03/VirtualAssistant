@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Save</key>
+	<string>Sauver</string>
+	<key>Cancel</key>
+	<string>Annuler</string>
+	<key>SelectLanguage</key>
+	<string>Choisir la langue</string>
+	<key>SelectChannel</key>
+	<string>Select Channel</string>
+	<key>WdgetSetting</key>
+	<string>Sélectionnez la chaîne</string>
+	<key>Setting</key>
+	<string>Paramètres</string>
+	<key>MoreOptions</key>
+	<string>Plus d&apos;options</string>
+	<key>Submit</key>
+	<string>Soumettre</string>
+	<key>SkipFeedback</key>
+	<string>Ignorer les commentaires</string>
+	<key>ResolveIssue</key>
+	<string>Avons-nous résolu votre problème?</string>
+	<key>SendChatTranscriptEmail</key>
+	<string>Envoyez la transcription du chat à votre adresse e-mail.</string>
+	<key>ChatTranscript</key>
+	<string>Transcription du chat</string>
+	<key>ThanksFeedback</key>
+	<string>Merci pour vos commentaires!</string>
+	<key>FeedbackComment</key>
+	<string>Commentaire de rétroaction</string>
+	<key>AdditionalFeedback</key>
+	<string>Commentaires supplémentaires</string>
+	<key>AddAdditionalFeedback</key>
+	<string>Ajoutez des commentaires supplémentaires</string>
+	<key>New item - 5</key>
+	<string></string>
+	<key>New item - 6</key>
+	<string></string>
+	<key>New item - 7</key>
+	<string></string>
+	<key>New item - 8</key>
+	<string></string>
+	<key>New item - 9</key>
+	<string></string>
+	<key>New item - 10</key>
+	<string></string>
+</dict>
+</plist>
