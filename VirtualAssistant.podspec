@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
     # 1
     spec.platform = :ios
-    spec.ios.deployment_target = '13.0'
+    spec.ios.deployment_target = '12.2'
     spec.name         = "VirtualAssistant"
     spec.summary      = "VirtualAssistant framework written in swift."
     spec.requires_arc = true

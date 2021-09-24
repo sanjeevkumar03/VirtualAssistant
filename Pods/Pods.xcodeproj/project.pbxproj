@@ -661,20 +661,20 @@
 		166D3D54444D9F49AAF429CDE22645C1 /* XMPPMessage+XEP_0334.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "XMPPMessage+XEP_0334.h"; path = "Extensions/XEP-0334/XMPPMessage+XEP_0334.h"; sourceTree = "<group>"; };
 		168D10B3FA9F287E92C1EEB6AEFA9AC1 /* XMPPGroupCoreDataStorageObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPGroupCoreDataStorageObject.h; path = Extensions/Roster/CoreDataStorage/XMPPGroupCoreDataStorageObject.h; sourceTree = "<group>"; };
 		17245A2882078A9E4E184A04A8F0DEE1 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
-		1732FEAD304C379AEF8226353713F0AE /* rfc3454.c */ = {isa = PBXFileReference; includeInIndex = 1; name = rfc3454.c; path = lib/rfc3454.c; sourceTree = "<group>"; };
+		1732FEAD304C379AEF8226353713F0AE /* rfc3454.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = rfc3454.c; path = lib/rfc3454.c; sourceTree = "<group>"; };
 		17810A8F20AB97E80BCF08EFA0F55BD6 /* libidn-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "libidn-umbrella.h"; sourceTree = "<group>"; };
 		178631DEA63A519EC4B69B5265E22920 /* NSXMLElement+OMEMO.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSXMLElement+OMEMO.h"; path = "Extensions/OMEMO/NSXMLElement+OMEMO.h"; sourceTree = "<group>"; };
 		183D60D8D0A10F919A4FF8F6D2B451F4 /* XMPPCapsCoreDataStorageObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPCapsCoreDataStorageObject.h; path = "Extensions/XEP-0115/CoreDataStorage/XMPPCapsCoreDataStorageObject.h"; sourceTree = "<group>"; };
 		19C3D4543D551341B7521B8A665EF48E /* Validation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Validation.swift; path = Source/Validation.swift; sourceTree = "<group>"; };
 		1A2B805FF44E818F5A931F2F41638D91 /* Pods-TIChatBot.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TIChatBot.modulemap"; sourceTree = "<group>"; };
 		1A2CE5C02518E63933A74EA183BF27CB /* XMPPFramework.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XMPPFramework.debug.xcconfig; sourceTree = "<group>"; };
-		1A32AB73328C7A1C6F0073460FC915A7 /* profiles.c */ = {isa = PBXFileReference; includeInIndex = 1; name = profiles.c; path = lib/profiles.c; sourceTree = "<group>"; };
+		1A32AB73328C7A1C6F0073460FC915A7 /* profiles.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = profiles.c; path = lib/profiles.c; sourceTree = "<group>"; };
 		1B062BC24DF0C4E2783B87484AE10946 /* GCDMulticastDelegate.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GCDMulticastDelegate.m; path = Utilities/GCDMulticastDelegate.m; sourceTree = "<group>"; };
 		1B422B4C754FC8AA474440804EC4BFDD /* XMPPRoom.xcdatamodel */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcdatamodel; path = XMPPRoom.xcdatamodel; sourceTree = "<group>"; };
 		1B93D3FC019BAD8647C39C7AD296D816 /* XMPPSlot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPSlot.h; path = "Extensions/XEP-0363/XMPPSlot.h"; sourceTree = "<group>"; };
 		1B9B18FAA089288A54F9D941A27402C3 /* XMPPConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPConstants.h; path = Core/XMPPConstants.h; sourceTree = "<group>"; };
 		1BAA1BD3D885882A2D36B67BF42BEB54 /* XMPPCapabilitiesCoreDataStorage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPCapabilitiesCoreDataStorage.h; path = "Extensions/XEP-0115/CoreDataStorage/XMPPCapabilitiesCoreDataStorage.h"; sourceTree = "<group>"; };
-		1BAB21355AD7C688192CC4EAE16B771D /* stringprep.c */ = {isa = PBXFileReference; includeInIndex = 1; name = stringprep.c; path = lib/stringprep.c; sourceTree = "<group>"; };
+		1BAB21355AD7C688192CC4EAE16B771D /* stringprep.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = stringprep.c; path = lib/stringprep.c; sourceTree = "<group>"; };
 		1C57F69B40E8394E91B67C306B0C3294 /* Pods-TIChatBot-TIChatBotTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TIChatBot-TIChatBotTests.modulemap"; sourceTree = "<group>"; };
 		1CDAB1CC1FC483A9A8497DD3C379BE21 /* XMPPTimer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMPPTimer.m; path = Utilities/XMPPTimer.m; sourceTree = "<group>"; };
 		1E91E0B95DE1B1BDB64F54F05F24EB2E /* CLIColor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLIColor.h; path = Sources/CocoaLumberjack/include/CocoaLumberjack/CLIColor.h; sourceTree = "<group>"; };
@@ -920,7 +920,7 @@
 		99BC9F541DBC12465BA55C3A5D284ED9 /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Source/Result.swift; sourceTree = "<group>"; };
 		9C113C62C53728173092AC72A38CF921 /* XMPPFramework-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XMPPFramework-dummy.m"; sourceTree = "<group>"; };
 		9D135459AC294C64BA9F1D1B734C0E25 /* XMPPvCardTemp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPvCardTemp.h; path = "Extensions/XEP-0054/XMPPvCardTemp.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A066A47E960D317A5B8ACD707C9CB84E /* AFError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AFError.swift; path = Source/AFError.swift; sourceTree = "<group>"; };
 		A08B35D3CA38D252D16957DF291085CA /* XMPPIQ+OMEMO.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "XMPPIQ+OMEMO.h"; path = "Extensions/OMEMO/XMPPIQ+OMEMO.h"; sourceTree = "<group>"; };
 		A0F0312162B43556803BDABC1CB39CB9 /* XMPPvCardTempAdr.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPvCardTempAdr.h; path = "Extensions/XEP-0054/XMPPvCardTempAdr.h"; sourceTree = "<group>"; };
@@ -982,7 +982,7 @@
 		BF4706C6804F25F12C876D947EB239F2 /* Pods-TIChatBot-TIChatBotTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TIChatBot-TIChatBotTests-umbrella.h"; sourceTree = "<group>"; };
 		BFBC82B5B3726923DCB4C3AC00C4FE0D /* XMPPMessage+XEP_0184.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "XMPPMessage+XEP_0184.m"; path = "Extensions/XEP-0184/XMPPMessage+XEP_0184.m"; sourceTree = "<group>"; };
 		C0893831A9DE0F6D0841699660778CB2 /* XMPPXOAuth2Google.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMPPXOAuth2Google.m; path = "Authentication/X-OAuth2-Google/XMPPXOAuth2Google.m"; sourceTree = "<group>"; };
-		C261436D14052AE3C35F240BCD155CAC /* CocoaLumberjack */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CocoaLumberjack; path = CocoaLumberjack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C261436D14052AE3C35F240BCD155CAC /* CocoaLumberjack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CocoaLumberjack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3BE44C4AE40C77A85CF003F5A3A939A /* XMPPDelayedDelivery.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMPPDelayedDelivery.m; path = "Extensions/XEP-0203/XMPPDelayedDelivery.m"; sourceTree = "<group>"; };
 		C493575E1E640FB72A6E450F15014ABC /* XMPPElement.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPElement.h; path = Core/XMPPElement.h; sourceTree = "<group>"; };
 		C5A665CBB311DBDD1232BAA633D4DF9E /* XMPPResultSet.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPResultSet.h; path = "Extensions/XEP-0059/XMPPResultSet.h"; sourceTree = "<group>"; };
@@ -1067,7 +1067,7 @@
 		E80BBF763DEE8C2769688FAA20A7C86E /* XMPPMessage+XEP_0280.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "XMPPMessage+XEP_0280.m"; path = "Extensions/XEP-0280/XMPPMessage+XEP_0280.m"; sourceTree = "<group>"; };
 		E9352A4DE0D1073EB1B0505D19E17A5C /* XMPPRoomMessage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPRoomMessage.h; path = "Extensions/XEP-0045/XMPPRoomMessage.h"; sourceTree = "<group>"; };
 		E9AA88722C11E6A2214A8A8DC719D79F /* XMPPPresence+XEP_0172.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "XMPPPresence+XEP_0172.m"; path = "Extensions/XEP-0172/XMPPPresence+XEP_0172.m"; sourceTree = "<group>"; };
-		E9D5311EA3523485E886A118FBC7D912 /* u8-check.c */ = {isa = PBXFileReference; includeInIndex = 1; name = "u8-check.c"; path = "lib/u8-check.c"; sourceTree = "<group>"; };
+		E9D5311EA3523485E886A118FBC7D912 /* u8-check.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = "u8-check.c"; path = "lib/u8-check.c"; sourceTree = "<group>"; };
 		EA6B61F481EA2D9C900164D22AF1F080 /* XMPPMessageDeliveryReceipts.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPMessageDeliveryReceipts.h; path = "Extensions/XEP-0184/XMPPMessageDeliveryReceipts.h"; sourceTree = "<group>"; };
 		EADFAA185A68541521CAAB8CD71610BD /* GCDAsyncUdpSocket.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GCDAsyncUdpSocket.m; path = Source/GCD/GCDAsyncUdpSocket.m; sourceTree = "<group>"; };
 		EBDF44FCE322392A4D5915B686544B92 /* XMPPRoomCoreDataStorage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPRoomCoreDataStorage.h; path = "Extensions/XEP-0045/CoreDataStorage/XMPPRoomCoreDataStorage.h"; sourceTree = "<group>"; };
@@ -1084,7 +1084,7 @@
 		F2B595C8575DF2F643D02947941BAE13 /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Response.swift; path = Source/Response.swift; sourceTree = "<group>"; };
 		F37C4848A06EF30167633306357EBA83 /* CocoaAsyncSocket.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CocoaAsyncSocket.debug.xcconfig; sourceTree = "<group>"; };
 		F4AD702D1AC9672DC1DAF8C1A3B90673 /* AlamofireImage-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AlamofireImage-umbrella.h"; sourceTree = "<group>"; };
-		F4AEDFAE228606270B94CA21DF34337A /* nfkc.c */ = {isa = PBXFileReference; includeInIndex = 1; name = nfkc.c; path = lib/nfkc.c; sourceTree = "<group>"; };
+		F4AEDFAE228606270B94CA21DF34337A /* nfkc.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = nfkc.c; path = lib/nfkc.c; sourceTree = "<group>"; };
 		F528513C524E72EC1B8AE2964D98510C /* OMEMOModule.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OMEMOModule.h; path = Extensions/OMEMO/OMEMOModule.h; sourceTree = "<group>"; };
 		F560ED93C01BB8977945E042ADD6818A /* XMPPvCardTempModule.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMPPvCardTempModule.m; path = "Extensions/XEP-0054/XMPPvCardTempModule.m"; sourceTree = "<group>"; };
 		F5AA0E2015F6AC512516103C138345EB /* XMPPAutoTime.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMPPAutoTime.m; path = "Extensions/XEP-0202/XMPPAutoTime.m"; sourceTree = "<group>"; };
@@ -1223,7 +1223,6 @@
 				E9D5311EA3523485E886A118FBC7D912 /* u8-check.c */,
 				80E6E782367773284D1EF8695A5AC862 /* Support Files */,
 			);
-			name = libidn;
 			path = libidn;
 			sourceTree = "<group>";
 		};
@@ -1572,7 +1571,6 @@
 				77CFFD099B14A91F8A29C262C2F77657 /* Core */,
 				A6C8DFC4183661229E2CB1B6683D3DC7 /* Support Files */,
 			);
-			name = CocoaLumberjack;
 			path = CocoaLumberjack;
 			sourceTree = "<group>";
 		};
@@ -1611,7 +1609,6 @@
 				0C91D0DD93068DCF6664721BDD2DB370 /* default */,
 				0BD0527B973C837E45DADF2A7CD0AAA8 /* Support Files */,
 			);
-			name = XMPPFramework;
 			path = XMPPFramework;
 			sourceTree = "<group>";
 		};
@@ -1636,7 +1633,7 @@
 				5D797E9A5C5782CE845840781FA1CC81 /* Alamofire */,
 				C8498160B5D29EF2745E4D41F2D971B5 /* AlamofireImage */,
 				6CBEFE4F9E22AFDC6347A739BB35FF8C /* CocoaAsyncSocket */,
-				C261436D14052AE3C35F240BCD155CAC /* CocoaLumberjack */,
+				C261436D14052AE3C35F240BCD155CAC /* CocoaLumberjack.framework */,
 				47E145BA702861D67F7EF7BD2F67FC6C /* KissXML */,
 				BE468A3F51074CCA6EED072B4B7B891C /* libidn */,
 				8B8FAB0D627B17EDE1366984278705D9 /* MBProgressHUD */,
@@ -1654,7 +1651,6 @@
 				78402CDA64B77940A6B33B89F4F3D34C /* Core */,
 				A59175411E283783C5DB0E064EFDE8D2 /* Support Files */,
 			);
-			name = KissXML;
 			path = KissXML;
 			sourceTree = "<group>";
 		};
@@ -1665,7 +1661,6 @@
 				97D52D8AAFD892F5D9D7D7B51DDC3B07 /* MBProgressHUD.m */,
 				ADE3C187837C5410F4B3DCB6826EA441 /* Support Files */,
 			);
-			name = MBProgressHUD;
 			path = MBProgressHUD;
 			sourceTree = "<group>";
 		};
@@ -1750,7 +1745,6 @@
 				EADFAA185A68541521CAAB8CD71610BD /* GCDAsyncUdpSocket.m */,
 				2ED3C172802CEECDAC8CAB1B079CFE99 /* Support Files */,
 			);
-			name = CocoaAsyncSocket;
 			path = CocoaAsyncSocket;
 			sourceTree = "<group>";
 		};
@@ -1852,7 +1846,6 @@
 				DF62D4126FDF5F9743951E529B62C1C9 /* UIImageView+AlamofireImage.swift */,
 				36FFA9487A9838604C79FE9A7EFE3671 /* Support Files */,
 			);
-			name = AlamofireImage;
 			path = AlamofireImage;
 			sourceTree = "<group>";
 		};
@@ -1895,7 +1888,6 @@
 				19C3D4543D551341B7521B8A665EF48E /* Validation.swift */,
 				DC388DF00B02774CC635EBAB26D54186 /* Support Files */,
 			);
-			name = Alamofire;
 			path = Alamofire;
 			sourceTree = "<group>";
 		};
@@ -2426,7 +2418,7 @@
 			);
 			name = CocoaLumberjack;
 			productName = CocoaLumberjack;
-			productReference = C261436D14052AE3C35F240BCD155CAC /* CocoaLumberjack */;
+			productReference = C261436D14052AE3C35F240BCD155CAC /* CocoaLumberjack.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		EAAA1AD3A8A1B59AB91319EE40752C6D /* Alamofire */ = {
@@ -3410,7 +3402,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/CocoaLumberjack/CocoaLumberjack-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/CocoaLumberjack/CocoaLumberjack-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -3751,7 +3743,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/CocoaLumberjack/CocoaLumberjack-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/CocoaLumberjack/CocoaLumberjack-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
