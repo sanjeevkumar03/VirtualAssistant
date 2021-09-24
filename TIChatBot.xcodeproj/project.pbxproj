@@ -396,7 +396,7 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		D9B5554F26FDBD3C00AE5430 /* Framework Classes */ = {
+		D9B5554F26FDBD3C00AE5430 /* FrameworkClasses */ = {
 			isa = PBXGroup;
 			children = (
 				D9EEF04726FCA192000C0099 /* Encryption */,
@@ -404,10 +404,10 @@
 				D9EEF01126FC9FFF000C0099 /* ImageManager */,
 				D9EEEFF826FC9FFF000C0099 /* Models */,
 				D9EEEE5726FC9DE7000C0099 /* Resources */,
-				D9EEEE5626FC9DBE000C0099 /* Classes & Cells */,
-				D9EEEE5526FC9D41000C0099 /* Other Libraries */,
+				D9EEEE5626FC9DBE000C0099 /* Classes&Cells */,
+				D9EEEE5526FC9D41000C0099 /* OtherLibraries */,
 			);
-			path = "Framework Classes";
+			path = FrameworkClasses;
 			sourceTree = "<group>";
 		};
 		D9EEEE3126FC9C86000C0099 = {
@@ -433,7 +433,7 @@
 		D9EEEE3D26FC9C86000C0099 /* TIChatBot */ = {
 			isa = PBXGroup;
 			children = (
-				D9B5554F26FDBD3C00AE5430 /* Framework Classes */,
+				D9B5554F26FDBD3C00AE5430 /* FrameworkClasses */,
 				D9EEEE3E26FC9C86000C0099 /* TIChatBot.h */,
 				D9EEEE3F26FC9C86000C0099 /* Info.plist */,
 			);
@@ -449,16 +449,16 @@
 			path = TIChatBotTests;
 			sourceTree = "<group>";
 		};
-		D9EEEE5526FC9D41000C0099 /* Other Libraries */ = {
+		D9EEEE5526FC9D41000C0099 /* OtherLibraries */ = {
 			isa = PBXGroup;
 			children = (
 				D9EEEF2C26FC9F91000C0099 /* MessageInputBar */,
 				D9EEEEEC26FC9F90000C0099 /* MessageKit */,
 			);
-			path = "Other Libraries";
+			path = OtherLibraries;
 			sourceTree = "<group>";
 		};
-		D9EEEE5626FC9DBE000C0099 /* Classes & Cells */ = {
+		D9EEEE5626FC9DBE000C0099 /* Classes&Cells */ = {
 			isa = PBXGroup;
 			children = (
 				D9EEEF9D26FC9FC1000C0099 /* APIManager.swift */,
@@ -506,7 +506,7 @@
 				D9EEEF8826FC9FC1000C0099 /* ViewController.swift */,
 				D9EEEFA726FC9FC2000C0099 /* XMPPController.swift */,
 			);
-			path = "Classes & Cells";
+			path = "Classes&Cells";
 			sourceTree = "<group>";
 		};
 		D9EEEE5726FC9DE7000C0099 /* Resources */ = {
