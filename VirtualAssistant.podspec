@@ -23,12 +23,12 @@ Pod::Spec.new do |spec|
              
     # 7
     spec.framework = "UIKit"
-    spec.dependency 'CocoaAsyncSocket'
-    spec.dependency 'CocoaLumberjack'
-    spec.dependency 'KissXML'
-    spec.dependency 'libidn'
-    spec.dependency 'XMPPFramework'
-    spec.dependency 'MBProgressHUD'
+    spec.dependency 'CocoaAsyncSocket', '~> 7.6.5'
+    spec.dependency 'CocoaLumberjack', '~> 3.7.0'
+    spec.dependency 'KissXML', '~> 5.3.1'
+    spec.dependency 'libidn', '~> 1.35'
+    spec.dependency 'XMPPFramework', '~> 4.0.0'
+    spec.dependency 'MBProgressHUD', '~> 1.2.0'
     spec.dependency 'Alamofire'
     spec.dependency 'AlamofireImage'
     # 8
