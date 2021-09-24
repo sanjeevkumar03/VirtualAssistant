@@ -35,7 +35,7 @@ Pod::Spec.new do |spec|
     spec.source_files  = "TIChatBot/**/*.{h,m,swift}"
     #spec.source_files = '**/Classes/**/*.{h,m,swift}'
     # 9
-    #spec.resources = "VirtualAssistant/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+    #spec.resources = "TIChatBot/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
     spec.resources = "**/Classes/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
     # 10
