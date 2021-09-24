@@ -39,6 +39,6 @@ Pod::Spec.new do |spec|
     #spec.resources = "**/Classes/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
     # 10
-    spec.swift_version = "4.2"
+    spec.swift_version = "5.0"
     
     end
