@@ -32,9 +32,11 @@ Pod::Spec.new do |spec|
     spec.dependency 'Alamofire'
     spec.dependency 'AlamofireImage'
     # 8
-    spec.source_files  = "VirtualAssistant/**/*.{h,m,swift}"
+    #spec.source_files  = "VirtualAssistant/**/*.{h,m,swift}"
+    s.source_files = '**/Classes/**/*.{h,m,swift}'
     # 9
     #spec.resources = "VirtualAssistant/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+    spec.resources = "**/Classes/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
     # 10
     spec.swift_version = "4.2"
