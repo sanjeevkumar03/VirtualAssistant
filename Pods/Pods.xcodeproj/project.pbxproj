@@ -927,7 +927,7 @@
 		A228E70439C85E7F86F62B41EA92A75B /* XMPPHTTPFileUpload.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPHTTPFileUpload.h; path = "Extensions/XEP-0363/XMPPHTTPFileUpload.h"; sourceTree = "<group>"; };
 		A2933C3FD9CF80B5C3CA1AFABD35EAF3 /* Pods-TIChatBot.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TIChatBot.debug.xcconfig"; sourceTree = "<group>"; };
 		A3802BDA468903868FFA1CFED6793B1E /* XMPPRoomOccupantCoreDataStorageObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPRoomOccupantCoreDataStorageObject.h; path = "Extensions/XEP-0045/CoreDataStorage/XMPPRoomOccupantCoreDataStorageObject.h"; sourceTree = "<group>"; };
-		A401CF2631869125A41B824D97E83450 /* Pods-TIChatBot-TIChatBotTests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-TIChatBot-TIChatBotTests"; path = Pods_TIChatBot_TIChatBotTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A401CF2631869125A41B824D97E83450 /* Pods_TIChatBot_TIChatBotTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TIChatBot_TIChatBotTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A40516E79583A62C5863771FA8102F66 /* XMPPUserMemoryStorageObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPUserMemoryStorageObject.h; path = Extensions/Roster/MemoryStorage/XMPPUserMemoryStorageObject.h; sourceTree = "<group>"; };
 		A4794E9F99DA1F94764FA73E3C139722 /* XMPPBookmarksStorageElement.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMPPBookmarksStorageElement.m; path = "Extensions/XEP-0048/XMPPBookmarksStorageElement.m"; sourceTree = "<group>"; };
 		A49CD9C306E760DCBA25C99A1E778D97 /* XMPPRoomLightCoreDataStorage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPRoomLightCoreDataStorage.h; path = Extensions/XMPPMUCLight/CoreDataStorage/XMPPRoomLightCoreDataStorage.h; sourceTree = "<group>"; };
@@ -987,7 +987,7 @@
 		C493575E1E640FB72A6E450F15014ABC /* XMPPElement.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPElement.h; path = Core/XMPPElement.h; sourceTree = "<group>"; };
 		C5A665CBB311DBDD1232BAA633D4DF9E /* XMPPResultSet.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPResultSet.h; path = "Extensions/XEP-0059/XMPPResultSet.h"; sourceTree = "<group>"; };
 		C5B28A4157261EF7584B36CC291A0DF9 /* NSNumber+XMPP.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSNumber+XMPP.h"; path = "Categories/NSNumber+XMPP.h"; sourceTree = "<group>"; };
-		C62D1E4A80592F60FB899E0DC12852CD /* Pods-TIChatBot */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-TIChatBot"; path = Pods_TIChatBot.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C62D1E4A80592F60FB899E0DC12852CD /* Pods_TIChatBot.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TIChatBot.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C689E0C2458409EBFE943F79459C696C /* XMPPIQ+XEP_0060.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "XMPPIQ+XEP_0060.h"; path = "Extensions/XEP-0060/XMPPIQ+XEP_0060.h"; sourceTree = "<group>"; };
 		C76F1FD82DB933066361BD086C9D0644 /* DDXMLNode.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDXMLNode.m; path = KissXML/DDXMLNode.m; sourceTree = "<group>"; };
 		C7D2E98EFFEE79DEEF819E8C20263121 /* XMPPBandwidthMonitor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMPPBandwidthMonitor.h; path = Extensions/BandwidthMonitor/XMPPBandwidthMonitor.h; sourceTree = "<group>"; };
@@ -1637,8 +1637,8 @@
 				47E145BA702861D67F7EF7BD2F67FC6C /* KissXML */,
 				BE468A3F51074CCA6EED072B4B7B891C /* libidn */,
 				8B8FAB0D627B17EDE1366984278705D9 /* MBProgressHUD */,
-				C62D1E4A80592F60FB899E0DC12852CD /* Pods-TIChatBot */,
-				A401CF2631869125A41B824D97E83450 /* Pods-TIChatBot-TIChatBotTests */,
+				C62D1E4A80592F60FB899E0DC12852CD /* Pods_TIChatBot.framework */,
+				A401CF2631869125A41B824D97E83450 /* Pods_TIChatBot_TIChatBotTests.framework */,
 				335CFD707A3A62420523381FCC1C0CBD /* XMPPFramework */,
 			);
 			name = Products;
@@ -2261,7 +2261,7 @@
 			);
 			name = "Pods-TIChatBot";
 			productName = Pods_TIChatBot;
-			productReference = C62D1E4A80592F60FB899E0DC12852CD /* Pods-TIChatBot */;
+			productReference = C62D1E4A80592F60FB899E0DC12852CD /* Pods_TIChatBot.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		5E29B9B6C65A7F7B0A531D16330B38F1 /* KissXML */ = {
@@ -2381,7 +2381,7 @@
 			);
 			name = "Pods-TIChatBot-TIChatBotTests";
 			productName = Pods_TIChatBot_TIChatBotTests;
-			productReference = A401CF2631869125A41B824D97E83450 /* Pods-TIChatBot-TIChatBotTests */;
+			productReference = A401CF2631869125A41B824D97E83450 /* Pods_TIChatBot_TIChatBotTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		C9778AE8394BE451567650E0B239BA21 /* AlamofireImage */ = {
@@ -2987,7 +2987,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-TIChatBot/Pods-TIChatBot-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -3024,7 +3024,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-TIChatBot-TIChatBotTests/Pods-TIChatBot-TIChatBotTests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -3339,7 +3339,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -3541,7 +3541,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -3569,7 +3569,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-TIChatBot/Pods-TIChatBot-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -3779,7 +3779,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-TIChatBot-TIChatBotTests/Pods-TIChatBot-TIChatBotTests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
