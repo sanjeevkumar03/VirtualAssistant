@@ -5,6 +5,7 @@ Pod::Spec.new do |spec|
     spec.ios.deployment_target = '13.0'
     spec.name         = "VirtualAssistant"
     spec.summary      = "VirtualAssistant framework written in swift."
+    spec.requires_arc = true
 
     spec.description  = <<-DESC
     This library helps in in resolving queries by chatting with virtual assistant and live agents.
