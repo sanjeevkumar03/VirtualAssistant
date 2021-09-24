@@ -6,18 +6,18 @@ target 'TIChatBot' do
   use_frameworks!
 
   #Pods for TIChatBot
-  #pod 'CocoaAsyncSocket', '~> 7.6.3', :modular_headers => true
-  pod 'CocoaAsyncSocket', '~> 7.6.5', :modular_headers => true
-  #pod 'CocoaLumberjack', '~> 3.6.0', :modular_headers => true
-  pod 'CocoaLumberjack', '~> 3.7.0', :modular_headers => true
-  pod 'KissXML', '~> 5.3.1', :modular_headers => true #Using updated library in this
-  pod 'libidn', '~> 1.35', :modular_headers => true #Using updated library in this
-  pod 'XMPPFramework', '~> 4.0.0', :modular_headers => true #Using updated library in this
-  #pod 'MBProgressHUD', '~> 1.1.0', :modular_headers => true
-  pod 'MBProgressHUD', '~> 1.2.0', :modular_headers => true
+  pod 'CocoaAsyncSocket', '~> 7.6.3', :modular_headers => true
+  #pod 'CocoaAsyncSocket', '~> 7.6.5', :modular_headers => true
+  pod 'CocoaLumberjack', '~> 3.6.0', :modular_headers => true
+  #pod 'CocoaLumberjack', '~> 3.7.0', :modular_headers => true
+  pod 'KissXML', '~> 5.3.1', :modular_headers => true
+  pod 'libidn', '~> 1.35', :modular_headers => true
+  pod 'XMPPFramework', '~> 4.0.0', :modular_headers => true
+  pod 'MBProgressHUD', '~> 1.1.0', :modular_headers => true
+  #pod 'MBProgressHUD', '~> 1.2.0', :modular_headers => true
   pod 'Alamofire'
-  #pod 'AlamofireImage', '~> 3.5'
-  pod 'AlamofireImage'
+  pod 'AlamofireImage', '~> 3.5'
+  #pod 'AlamofireImage'
 
   target 'TIChatBotTests' do
     # Pods for testing

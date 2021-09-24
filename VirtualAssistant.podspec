@@ -24,14 +24,14 @@ Pod::Spec.new do |spec|
              
     # 7
     spec.framework = "UIKit"
-    spec.dependency 'CocoaAsyncSocket', '~> 7.6.5'
-    spec.dependency 'CocoaLumberjack', '~> 3.7.0'
+    spec.dependency 'CocoaAsyncSocket', '~> 7.6.3'
+    spec.dependency 'CocoaLumberjack', '~> 3.6.0'
     spec.dependency 'KissXML', '~> 5.3.1'
     spec.dependency 'libidn', '~> 1.35'
     spec.dependency 'XMPPFramework', '~> 4.0.0'
-    spec.dependency 'MBProgressHUD', '~> 1.2.0'
+    spec.dependency 'MBProgressHUD', '~> 1.1.0'
     spec.dependency 'Alamofire'
-    spec.dependency 'AlamofireImage'
+    spec.dependency 'AlamofireImage', '~> 3.5'
     # 8
     spec.source_files  = "TIChatBot/**/*.{h,m,swift}"
     #spec.source_files = '**/Classes/**/*.{h,m,swift}'

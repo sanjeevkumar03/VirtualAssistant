@@ -61,7 +61,7 @@ Updated and maintained by Deusty LLC and the Apple development community.
 
 BSD 3-Clause License
 
-Copyright (c) 2010-2021, Deusty, LLC
+Copyright (c) 2010-2020, Deusty, LLC
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -88,7 +88,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 ## MBProgressHUD
 
-Copyright © 2009-2020 Matej Bukovinski
+Copyright © 2009-2016 Matej Bukovinski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
