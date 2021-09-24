@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
     spec.homepage = "https://github.com/sanjeevkumar03/VirtualAssistant"
     # 6
     spec.source = { :git => "https://github.com/sanjeevkumar03/VirtualAssistant.git",
-             :tag => "#{s.version}" }
+             :tag => "#{spec.version}" }
              
     # 7
     spec.framework = "UIKit"
