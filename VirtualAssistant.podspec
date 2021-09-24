@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
     This library helps in in resolving queries by chatting with virtual assistant and live agents.
                         DESC
     # 2
-    spec.version      = "0.0.5"
+    spec.version      = "0.0.6"
     # 3
     spec.license      = { :type => "MIT", :file => "LICENSE" }
     # 4
